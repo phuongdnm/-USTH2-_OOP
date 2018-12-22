@@ -7,7 +7,7 @@ Object-Oriented Programming is a fundamental programming methodology for creatin
 > The hardest part of programing is setting up the environment.
 ##### Install Java JDK:
 * What is Java JDK?  
-Basically, it is the software developement environment for Java developer.
+Basically, it is the software developement environment for Java developers.
 * How  to instal: You can follow this [link](https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html). Java 8 is the most stable, but you can install the lastest version, it's up to you!
 ##### Install IDE: 
 * There are plenty of Java IDEs, all of them are good but I highly recommend IntellJ IDEA. JetBrains provides 2 versions of IntellJ: Community edition (aka free version) and the Ultimate edition.
