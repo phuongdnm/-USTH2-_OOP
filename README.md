@@ -17,5 +17,6 @@ Basically, it is the software developement environment for Java developers.
 ## Note
 - [X] I highly recommend you to do the problems first. You should give it a try!
 - [X] For any problems, you can contact me through my email or facebook.
+- [X] Remember, no pain no gain. At the beginning, the course seems very complicated but if you work hard, everything gonna be easy!
 
-Pull requests are more than welcomed! **Do share** to your friend!
+Pull requests are more than welcomed! **Do share** to your friend and have fun with Java!
