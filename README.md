@@ -1,5 +1,6 @@
 # [USTH-Second year] Object-Oriented Programing
-**Lecturer: Dr.Nghiem Thi Phuong**
+**Lecturer: Dr.Nghiem Thi Phuong**  
+
 Object-Oriented Programming is a fundamental programming methodology for creating computer applications. Object-Oriented Programming offers a wide range of advantages over procedural programming such as easier debugging, easier code reuse, etc. This course  will provide students with essential object-oriented programming concepts, principles, and techniques in order to create object-oriented computer applications. The concepts will be illustrated using the Java programming language. The topics covered include: objects and classes, encapsulation, inheritance, polymorphism, abstraction, interfaces, exception handling, and input/output streams.
 
 ### Sofware installation
